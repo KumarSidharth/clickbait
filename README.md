@@ -5,7 +5,7 @@
 </head> 
 <body>
   <h1>Congratulations</h1>
-  <h2>You are now a vicitm of click bait</h2>
+  <h2>You are now a victim of click bait</h2>
   <p>First of all sorry to prey on you but, I wanted to draw your attention to the problem of click baits</p>
 </body>
 </html>
