@@ -1,7 +1,7 @@
 <html>
 <head>
-  <meta property="og:title" content="Sidhatrh is in a relationship">
-  <meta propperty="og:description" content="Sidharth has at last love of his life and her name is ....">
+  <meta property="og:title" content="Sidharth is in a relationship">
+  <meta property="og:description" content="Your friend Sidharth has found love of his life and she has accepted the proposal. Her name is ...."/>
 </head> 
 <body>
   <h1>Congratulations</h1>
