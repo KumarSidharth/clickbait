@@ -1,4 +1,4 @@
-<!Doctype html>
+<html>
 
 <body>
   <h1>Congradulations</h1>
